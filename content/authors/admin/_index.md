@@ -127,14 +127,14 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cooking
+      - name: Pet volunteering
         description: ''
         percent: 80
-        icon: person-simple-walk
-      - name: Travel
+        icon: cat
+      - name: Movie
         description: ''
         percent: 40
-        icon: camera
+        icon: film
 
 languages:
   - name: English
