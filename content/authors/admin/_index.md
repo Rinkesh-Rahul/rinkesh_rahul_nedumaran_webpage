@@ -38,7 +38,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/Rinkesh-Rahul
   - icon: brands/linkedin
-    url: www.linkedin.com/in/rinkeshrahul/
+    url: https://www.linkedin.com/in/rinkeshrahul/
   - icon: brands/instagram
     url: https://www.instagram.com/rinkesh_rahul_nedumaran?igsh=NWlrdHNsMDNkMGJl
 
