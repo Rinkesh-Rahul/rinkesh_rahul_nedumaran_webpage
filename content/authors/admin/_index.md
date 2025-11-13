@@ -1,31 +1,31 @@
 ---
 # Display name
-title: 吳健雄
+title: o9 & MDO Consultant
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Rinkesh Rahul Nedumaran
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Rinkesh Rahul
+last_name: Nedumaran
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: he/him
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🚀
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Enterprise Application Specialist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: GenCoinElfonze Technologies Pvt Ltd
+    url: https://www.elfonze.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
