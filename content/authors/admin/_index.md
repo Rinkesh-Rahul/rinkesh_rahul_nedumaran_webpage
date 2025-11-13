@@ -107,18 +107,18 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Git
         description: ''
-        percent: 80
-        icon: devicon/python
-      - name: RStudio
+        percent: 50
+        icon: devicon/git
+      - name: Github
         description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
+        percent: 50
+        icon: devicon/github
+      - name: Visual Studio Code
         description: ''
         percent: 40
-        icon: devicon/pytorch
+        icon: devicon/vscode
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -126,15 +126,15 @@ skills:
       - name: Hiking
         description: ''
         percent: 60
-        icon: paw
+        icon: person-simple-walk
       - name: Cooking
         description: ''
-        percent: 90
-        icon: coffee
-      - name: Photography
-        description: ''
         percent: 80
-        icon: running
+        icon: person-simple-walk
+      - name: Travel
+        description: ''
+        percent: 40
+        icon: camera
 
 languages:
   - name: English
@@ -177,12 +177,3 @@ awards:
 ---
 
 Enterprise Application Specialist with 7 years of experience in Supply Chain Management (SCM) solutions, enterprise applications, and data governance across global clients in the Renewable Energy, Fashion, Food, and Pharmaceutical industries. Proven expertise in implementing and configuring o9 Digital Brain and Prospecta MDO platforms, integrating both functional and technical perspectives to drive process optimization and data quality excellence. Certified in o9 SCM, o9 Technical Configuration, and Prospecta MDO (Explorer, Expert, Workflows, DAXE Rules, Specialist). Experienced in requirement gathering, workflow design, UI development, data validation, and UAT execution with a focus on business transformation and digital enablement. Recognized for mentoring new associates, leading KT sessions, and collaborating with cross-functional teams to deliver scalable and efficient enterprise solutions. Passionate about advancing in SCM consulting and contributing to large-scale transformation programs leveraging o9 and MDO platforms.
-
-
-
-
-
-
-
-
-
