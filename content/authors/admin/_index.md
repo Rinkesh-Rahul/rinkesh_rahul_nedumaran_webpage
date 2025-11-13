@@ -103,18 +103,18 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Git
         description: ''
-        percent: 80
-        icon: devicon/python
-      - name: RStudio
+        percent: 60
+        icon: devicon/git
+      - name: Github
         description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
+        percent: 60
+        icon: devicon/github
+      - name: Visual Studio Code
         description: ''
-        percent: 40
-        icon: devicon/algolia
+        percent: 50
+        icon: devicon/vscode
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
