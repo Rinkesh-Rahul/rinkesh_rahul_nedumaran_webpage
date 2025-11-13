@@ -114,7 +114,7 @@ skills:
       - name: PyTorch
         description: ''
         percent: 40
-        icon: devicon/pytorch
+        icon: devicon/algolia
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
