@@ -61,6 +61,12 @@ education:
     date_end: 2012-04-14
     summary: |
       Percentage: 86.25%
+  - area: Class X
+    institution: Zion Matriculation Higher Secondary School, Tamil Nadu State Board
+    date_start: 2009-05-11
+    date_end: 2010-04-14
+    summary: |
+      Percentage: 91.40%
 
 work:
   - position: Enterprise Application Specialist
