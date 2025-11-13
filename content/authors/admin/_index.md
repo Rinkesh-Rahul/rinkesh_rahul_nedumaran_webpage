@@ -145,23 +145,24 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 certifications:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: brands/coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+  - title: MDO DAXE RULES Certification
+    url: https://prospecta-academy.thinkific.com/certificates/kqgkvqalq0
+    awarder: Prospecta Software
+  - title: MDO EXPERT Certification
+    url: https://prospecta-academy.thinkific.com/certificates/p1x2wpziqt
+    awarder: Prospecta Software
+  - title: MDO EXPLORER Certification
+    url: https://prospecta-academy.thinkific.com/certificates/ascqjq2c0y
+    awarder: Prospecta Software
+  - title: MDO SPECIALIST Certification
+    url: https://prospecta-academy.thinkific.com/certificates/tfvxpoamn9
+    awarder: Prospecta Software
+  - title: MDO WORKFLOWS Certification
+    url: https://prospecta-academy.thinkific.com/certificates/kncw5ig0dr
+    awarder: Prospecta Software
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
     awarder: edX
-    icon: brands/edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
   - title: 'Object-Oriented Programming in R'
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
