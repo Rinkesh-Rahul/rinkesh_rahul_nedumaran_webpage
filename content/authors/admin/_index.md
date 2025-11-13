@@ -77,9 +77,9 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - MDO Consultant for one of India’s largest pharmaceutical companies and also for a global leader in mining and infrastructure solutions: Collaborated with business users to gather requirements and translate them into technical specifications. Design and configure workflows for data creation, approval, and maintenance. Implement data validation rules and quality checks, and monitor data quality KPIs using dashboards and reports. Perform data cleansing, deduplication, and enrichment to ensure accuracy and consistency.
+      - Initiated self-driven learning in Prospecta MDO, successfully completed multiple certifications including MDO Explorer, MDO Expert, Workflows, and DAXE Rules, to expand cross-platform capabilities and support future digital transformation initiatives.
+      - Actively contributing to SCM practice team development by leveraging prior project experience to conduct KT sessions and provide onboarding support for new associates. Focus areas include configuration best practices, UI design, covering both functional and technical aspects of the o9 supply chain platform.
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
