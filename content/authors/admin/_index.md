@@ -46,28 +46,34 @@ education:
   - area: MBA
     institution: National Institute of Technology, Tiruchirappalli
     date_start: 2019-07-22
-    date_end: 2021-05-24
+    date_end: 2021-05-05
     summary: |
-     GPA: 7.94
-  - area: B. E. (Mechanical)
-    institution: Prince Shri Venkateshwara Padmavathy Engineering College, Anna University
-    date_start: 2012-08-22
-    date_end: 2016-04-14
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      GPA: 8.01
-  - area: Class XII
-    institution: Zion Matriculation Higher Secondary School, Tamil Nadu State Board
-    date_start: 2011-05-11
-    date_end: 2012-04-14
-    summary: |
-      Percentage: 86.25%
-  - area: Class X
-    institution: Zion Matriculation Higher Secondary School, Tamil Nadu State Board
-    date_start: 2009-05-11
-    date_end: 2010-04-14
-    summary: |
-      Percentage: 91.40%
+      GPA: 3.8/4.0
 
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.4/4.0
+
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Enterprise Application Specialist
     company_name: Elfonze Technologies
@@ -76,49 +82,39 @@ work:
     date_start: 2025-05-09
     date_end: ''
     summary: |2-
-      - MDO Consultant for one of India’s largest pharmaceutical companies and also for a global leader in mining and infrastructure solutions: Collaborated with business users to gather requirements and translate them into technical specifications. Design and configure workflows for data creation, approval, and maintenance. Implement data validation rules and quality checks, and monitor data quality KPIs using dashboards and reports. Perform data cleansing, deduplication, and enrichment to ensure accuracy and consistency.
-      - Initiated self-driven learning in Prospecta MDO, successfully completed multiple certifications including MDO Explorer, MDO Expert, Workflows, and DAXE Rules, to expand cross-platform capabilities and support future digital transformation initiatives.
-      - Actively contributing to SCM practice team development by leveraging prior project experience to conduct KT sessions and provide onboarding support for new associates. Focus areas include configuration best practices, UI design, covering both functional and technical aspects of the o9 supply chain platform.
-  - position: Consultant
-    company_name: Infosys Limited
-    company_url: https://www.infosys.com/
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
     company_logo: ''
-    date_start: 2021-07-22
-    date_end: 2025-05-05
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      - o9 Configuration for one of the Global leaders in Renewable Energy Industry: I am responsible for understanding functional and technical specification of the Change Requests, clearly identify configuration requirements, develop the enhancements on o9 environment, and testing the configuration. Collaborated with the client to assess and redesign digital supply chain processes using the o9 supply chain tool, leading to significant improvements in operational efficiency and process optimization.
-      - o9 Configuration support and UAT support for one of the Global Leader in Food Production: Responsible for application development support and UAT, liaising with clients to address issues and implement additional requirements and creating test scenarios in line with user stories/business requirements being developed and executing the tests on the updated tenants and also documenting the necessary details of the tests results.
-      - o9 Configuration for one of the Global leaders in Fashion Industry: As an o9 Configuration SME, was responsible for understanding functional and technical specification, clearly identify configuration requirements, develop the configuration on o9 environment, creating test scenarios in line with user stories/business requirements being developed and executing the tests. Have also designed and developed UI reports, action buttons, procedures, active rules, implemented capabilities using IBPL and updated Python plugins to bridge the gap between o9 platform and business process.
-      - RFPs and RFQs: Contributed to multiple RFP and RFQ initiatives by gathering and analyzing business and technical data to support solution design and client engagement. Assisted in project management activities, created reports, and maintained client communication to ensure alignment and feedback integration. Played a key role in modifying and enhancing the o9 supply chain platform’s user interface, resolving client-specific issues, streamlining workflows, and implementing process improvements. Worked extensively with data validation and configuration to ensure accuracy across deliverables, and responsible for preparing functional and technical documentation for o9 projects.
-  - position: Software Engineer
-    company_name: Tech Mahindra
-    company_url: https://www.techmahindra.com/
-    company_logo: ''
-    date_start: 2016-08-22
-    date_end: 2019-07-08
-    summary: |
-      - Responsible for application packaging and deployment, utilizing silent installation techniques and setup capture methods using Wise Package Studio and App-V for cloud-based installations.
-      - Analyze software packaging requests, assess feasibility, and develop customized software packages aligned with both global packaging standards and client-specific (Global leader in Chemical Industry) requirements.
-      - Ensured all packages were thoroughly tested across multiple operating systems (Windows 7, 8, and 10 – both 32-bit and 64-bit) to guarantee defect-free delivery and delivered 100% on-time package deployment while maintaining compliance with internal SLAs and client-specific standards.
-      - Was also an integral part of the User Acceptance Testing (UAT) team, where I facilitated end-users with the necessary support, documentation, and guidance to validate application functionality and performance across target environments. This included coordinating test scenarios, resolving issues, and ensuring alignment with business requirements.
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Git
+      - name: Python
         description: ''
-        percent: 50
-        icon: devicon/git
-      - name: Github
+        percent: 80
+        icon: devicon/python
+      - name: RStudio
         description: ''
-        percent: 50
-        icon: devicon/github
-      - name: Visual Studio Code
+        percent: 100
+        icon: devicon/rstudio
+      - name: PyTorch
         description: ''
         percent: 40
-        icon: devicon/vscode
+        icon: devicon/pytorch
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -127,14 +123,14 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Pet volunteering
+      - name: Cooking
+        description: ''
+        percent: 90
+        icon: chef-hat
+      - name: Photography
         description: ''
         percent: 80
-        icon: cat
-      - name: Movie
-        description: ''
-        percent: 40
-        icon: film
+        icon: camera
 
 languages:
   - name: English
@@ -143,6 +139,8 @@ languages:
     percent: 100
   - name: Hindi
     percent: 30
+  - name: Telugu
+    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
