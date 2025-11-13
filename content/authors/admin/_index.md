@@ -80,17 +80,18 @@ work:
       - MDO Consultant for one of India’s largest pharmaceutical companies and also for a global leader in mining and infrastructure solutions: Collaborated with business users to gather requirements and translate them into technical specifications. Design and configure workflows for data creation, approval, and maintenance. Implement data validation rules and quality checks, and monitor data quality KPIs using dashboards and reports. Perform data cleansing, deduplication, and enrichment to ensure accuracy and consistency.
       - Initiated self-driven learning in Prospecta MDO, successfully completed multiple certifications including MDO Explorer, MDO Expert, Workflows, and DAXE Rules, to expand cross-platform capabilities and support future digital transformation initiatives.
       - Actively contributing to SCM practice team development by leveraging prior project experience to conduct KT sessions and provide onboarding support for new associates. Focus areas include configuration best practices, UI design, covering both functional and technical aspects of the o9 supply chain platform.
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+  - position: Consultant
+    company_name: Infosys Limited
+    company_url: https://www.infosys.com/
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-07-22
+    date_end: 2025-05-05
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - o9 Configuration for one of the Global leaders in Renewable Energy Industry: I am responsible for understanding functional and technical specification of the Change Requests, clearly identify configuration requirements, develop the enhancements on o9 environment, and testing the configuration. Collaborated with the client to assess and redesign digital supply chain processes using the o9 supply chain tool, leading to significant improvements in operational efficiency and process optimization.
+      - o9 Configuration support and UAT support for one of the Global Leader in Food Production: Responsible for application development support and UAT, liaising with clients to address issues and implement additional requirements and creating test scenarios in line with user stories/business requirements being developed and executing the tests on the updated tenants and also documenting the necessary details of the tests results.
+      - o9 Configuration for one of the Global leaders in Fashion Industry: As an o9 Configuration SME, was responsible for understanding functional and technical specification, clearly identify configuration requirements, develop the configuration on o9 environment, creating test scenarios in line with user stories/business requirements being developed and executing the tests. Have also designed and developed UI reports, action buttons, procedures, active rules, implemented capabilities using IBPL and updated Python plugins to bridge the gap between o9 platform and business process.
+      - RFPs and RFQs: Contributed to multiple RFP and RFQ initiatives by gathering and analyzing business and technical data to support solution design and client engagement. Assisted in project management activities, created reports, and maintained client communication to ensure alignment and feedback integration. Played a key role in modifying and enhancing the o9 supply chain platform’s user interface, resolving client-specific issues, streamlining workflows, and implementing process improvements. Worked extensively with data validation and configuration to ensure accuracy across deliverables, and responsible for preparing functional and technical documentation for o9 projects.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
