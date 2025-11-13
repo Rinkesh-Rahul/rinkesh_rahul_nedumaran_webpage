@@ -103,18 +103,18 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Git
         description: ''
-        percent: 80
-        icon: devicon/python
-      - name: RStudio
+        percent: 60
+        icon: devicon/git
+      - name: Github
         description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
+        percent: 60
+        icon: devicon/github
+      - name: Visual Studio Code
         description: ''
-        percent: 40
-        icon: devicon/pytorch
+        percent: 50
+        icon: devicon/vscode
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -126,7 +126,7 @@ skills:
       - name: Cooking
         description: ''
         percent: 90
-        icon: 👨
+        icon: person-simple-walk
       - name: Photography
         description: ''
         percent: 80
@@ -140,11 +140,11 @@ languages:
   - name: Hindi
     percent: 30
 
-# Awards.
-#   Add/remove as many awards below as you like.
+# certifications.
+#   Add/remove as many certifications below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+certifications:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
