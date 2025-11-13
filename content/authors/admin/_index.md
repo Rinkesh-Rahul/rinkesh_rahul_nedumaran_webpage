@@ -76,7 +76,6 @@ work:
     date_start: 2025-05-09
     date_end: ''
     summary: |2-
-      Responsibilities include:
       - MDO Consultant for one of India’s largest pharmaceutical companies and also for a global leader in mining and infrastructure solutions: Collaborated with business users to gather requirements and translate them into technical specifications. Design and configure workflows for data creation, approval, and maintenance. Implement data validation rules and quality checks, and monitor data quality KPIs using dashboards and reports. Perform data cleansing, deduplication, and enrichment to ensure accuracy and consistency.
       - Initiated self-driven learning in Prospecta MDO, successfully completed multiple certifications including MDO Explorer, MDO Expert, Workflows, and DAXE Rules, to expand cross-platform capabilities and support future digital transformation initiatives.
       - Actively contributing to SCM practice team development by leveraging prior project experience to conduct KT sessions and provide onboarding support for new associates. Focus areas include configuration best practices, UI design, covering both functional and technical aspects of the o9 supply chain platform.
@@ -87,11 +86,21 @@ work:
     date_start: 2021-07-22
     date_end: 2025-05-05
     summary: |
-      Responsibilities include:
       - o9 Configuration for one of the Global leaders in Renewable Energy Industry: I am responsible for understanding functional and technical specification of the Change Requests, clearly identify configuration requirements, develop the enhancements on o9 environment, and testing the configuration. Collaborated with the client to assess and redesign digital supply chain processes using the o9 supply chain tool, leading to significant improvements in operational efficiency and process optimization.
       - o9 Configuration support and UAT support for one of the Global Leader in Food Production: Responsible for application development support and UAT, liaising with clients to address issues and implement additional requirements and creating test scenarios in line with user stories/business requirements being developed and executing the tests on the updated tenants and also documenting the necessary details of the tests results.
       - o9 Configuration for one of the Global leaders in Fashion Industry: As an o9 Configuration SME, was responsible for understanding functional and technical specification, clearly identify configuration requirements, develop the configuration on o9 environment, creating test scenarios in line with user stories/business requirements being developed and executing the tests. Have also designed and developed UI reports, action buttons, procedures, active rules, implemented capabilities using IBPL and updated Python plugins to bridge the gap between o9 platform and business process.
       - RFPs and RFQs: Contributed to multiple RFP and RFQ initiatives by gathering and analyzing business and technical data to support solution design and client engagement. Assisted in project management activities, created reports, and maintained client communication to ensure alignment and feedback integration. Played a key role in modifying and enhancing the o9 supply chain platform’s user interface, resolving client-specific issues, streamlining workflows, and implementing process improvements. Worked extensively with data validation and configuration to ensure accuracy across deliverables, and responsible for preparing functional and technical documentation for o9 projects.
+  - position: Software Engineer
+    company_name: Tech Mahindra
+    company_url: https://www.techmahindra.com/
+    company_logo: ''
+    date_start: 2016-08-22
+    date_end: 2019-07-08
+    summary: |
+      - Responsible for application packaging and deployment, utilizing silent installation techniques and setup capture methods using Wise Package Studio and App-V for cloud-based installations.
+      - Analyze software packaging requests, assess feasibility, and develop customized software packages aligned with both global packaging standards and client-specific (Global leader in Chemical Industry) requirements.
+      - Ensured all packages were thoroughly tested across multiple operating systems (Windows 7, 8, and 10 – both 32-bit and 64-bit) to guarantee defect-free delivery and delivered 100% on-time package deployment while maintaining compliance with internal SLAs and client-specific standards.
+      - Was also an integral part of the User Acceptance Testing (UAT) team, where I facilitated end-users with the necessary support, documentation, and guidance to validate application functionality and performance across target environments. This included coordinating test scenarios, resolving issues, and ensuring alignment with business requirements.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
