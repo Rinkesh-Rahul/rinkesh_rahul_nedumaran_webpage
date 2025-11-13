@@ -126,7 +126,7 @@ skills:
       - name: Cooking
         description: ''
         percent: 90
-        icon: 👨‍🍳
+        icon: 👨
       - name: Photography
         description: ''
         percent: 80
