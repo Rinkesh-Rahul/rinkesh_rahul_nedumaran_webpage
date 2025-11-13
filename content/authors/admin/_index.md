@@ -1,13 +1,13 @@
 ---
 # Display name
-title: o9 & MDO Consultant
+title: Rinkesh Rahul Nedumaran
 
 # Name pronunciation (optional)
 name_pronunciation: Rinkesh Rahul Nedumaran
 
 # Full name (for SEO)
-first_name: Rinkesh Rahul
-last_name: Nedumaran
+first_name: o9 & MDO Consultant
+last_name: 
 
 # Pronouns (optional)
 pronouns: he/him
@@ -24,29 +24,29 @@ role: Enterprise Application Specialist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoinElfonze Technologies Pvt Ltd
+  - name: Elfonze Technologies Pvt Ltd
     url: https://www.elfonze.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:rinkeshrahul@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/BuildLore
+    url: https://x.com/I_AM_RINKY?t=GnlAuFT411GIZoeb4d3NaA&s=09
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Rinkesh-Rahul
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: www.linkedin.com/in/rinkeshrahul/
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/rinkesh_rahul_nedumaran?igsh=NWlrdHNsMDNkMGJl
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MBA
+    institution: National Institute of Technology, Tiruchirappalli
+    date_start: 2019-07-22
+    date_end: 2021-05-05
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -75,11 +75,11 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Enterprise Application Specialist
+    company_name: Elfonze Technologies
+    company_url: https://www.elfonze.com/
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2025-05-09
     date_end: ''
     summary: |2-
       Responsibilities include:
@@ -135,10 +135,16 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: Tamil
+    percent: 100
+  - name: Telugu
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Malayalam
+    percent: 50
+    name: Hindi
+    percent: 30
+  - name: Kannada
+    percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -172,4 +178,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+Enterprise Application Specialist with 7 years of experience in Supply Chain Management (SCM) solutions, enterprise applications, and data governance across global clients in the Renewable Energy, Fashion, Food, and Pharmaceutical industries. Proven expertise in implementing and configuring o9 Digital Brain and Prospecta MDO platforms, integrating both functional and technical perspectives to drive process optimization and data quality excellence. Certified in o9 SCM, o9 Technical Configuration, and Prospecta MDO (Explorer, Expert, Workflows, DAXE Rules, Specialist). Experienced in requirement gathering, workflow design, UI development, data validation, and UAT execution with a focus on business transformation and digital enablement. Recognized for mentoring new associates, leading KT sessions, and collaborating with cross-functional teams to deliver scalable and efficient enterprise solutions. Passionate about advancing in SCM consulting and contributing to large-scale transformation programs leveraging o9 and MDO platforms.
