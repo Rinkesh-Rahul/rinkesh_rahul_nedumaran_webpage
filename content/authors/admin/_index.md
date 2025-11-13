@@ -3,7 +3,7 @@
 title: Rinkesh Rahul Nedumaran
 
 # Name pronunciation (optional)
-name_pronunciation: o9 & MDO Consultant
+name_pronunciation: o9 & Prospecta MDO Consultant
 
 # Full name (for SEO)
 first_name: Rinkesh Rahul
