@@ -3,11 +3,11 @@
 title: Rinkesh Rahul Nedumaran
 
 # Name pronunciation (optional)
-name_pronunciation: Rinkesh Rahul Nedumaran
+name_pronunciation: o9 & MDO Consultant
 
 # Full name (for SEO)
-first_name: o9 & MDO Consultant
-last_name: 
+first_name: Rinkesh Rahul
+last_name: Nedumaran
 
 # Pronouns (optional)
 pronouns: he/him
@@ -173,5 +173,3 @@ awards:
 ---
 
 Enterprise Application Specialist with 7 years of experience in Supply Chain Management (SCM) solutions, enterprise applications, and data governance across global clients in the Renewable Energy, Fashion, Food, and Pharmaceutical industries. Proven expertise in implementing and configuring o9 Digital Brain and Prospecta MDO platforms, integrating both functional and technical perspectives to drive process optimization and data quality excellence. Certified in o9 SCM, o9 Technical Configuration, and Prospecta MDO (Explorer, Expert, Workflows, DAXE Rules, Specialist). Experienced in requirement gathering, workflow design, UI development, data validation, and UAT execution with a focus on business transformation and digital enablement. Recognized for mentoring new associates, leading KT sessions, and collaborating with cross-functional teams to deliver scalable and efficient enterprise solutions. Passionate about advancing in SCM consulting and contributing to large-scale transformation programs leveraging o9 and MDO platforms.
-
-
