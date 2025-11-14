@@ -47,6 +47,7 @@ sections:
       username: admin
   - block: languages
     content:
-      title: Languages
+      title: Langua
       username: admin
 ---
+
