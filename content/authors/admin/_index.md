@@ -163,6 +163,18 @@ awards:
     url: https://prospecta-academy.thinkific.com/certificates/p1x2wpziqt
     date: '2023-01-21'
     awarder: Prospecta Software
+  - title: MDO EXPLORER Certification
+    url: https://prospecta-academy.thinkific.com/certificates/ascqjq2c0y
+    date: '2023-01-21'
+    awarder: Prospecta Software
+  - title: MDO SPECIALIST Certification
+    url: https://prospecta-academy.thinkific.com/certificates/tfvxpoamn9
+    date: '2023-01-21'
+    awarder: Prospecta Software
+  - title: MDO WORKFLOWS Certification
+    url: https://prospecta-academy.thinkific.com/certificates/kncw5ig0dr
+    date: '2023-01-21'
+    awarder: Prospecta Software
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
