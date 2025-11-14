@@ -43,12 +43,11 @@ sections:
       username: admin
   - block: awards
     content:
-      title: Certifications
+      title: Certifications (click title to view)
       username: admin
   - block: languages
     content:
       title: Languages
       username: admin
 ---
-
 
