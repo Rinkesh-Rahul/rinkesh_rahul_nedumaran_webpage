@@ -43,11 +43,12 @@ sections:
       username: admin
   - block: awards
     content:
-      title: Awards
+      title: Certifications
       username: admin
   - block: languages
     content:
-      title: Langua
+      title: Languages
       username: admin
 ---
+
 
