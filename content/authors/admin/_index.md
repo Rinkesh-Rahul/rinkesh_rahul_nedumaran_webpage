@@ -275,24 +275,6 @@ awards:
     url: https://drive.google.com/file/d/1goCXoYDV-mRabi4cnpfJUgoWe-ropyyf/view?usp=drive_link
     date: '2024-10-28'
     awarder: Blue Yonder	
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: brands/edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: brands/datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 Enterprise Application Specialist with 7 years of experience in Supply Chain Management (SCM) solutions, enterprise applications, and data governance across global clients in the Renewable Energy, Fashion, Food, and Pharmaceutical industries. Proven expertise in implementing and configuring o9 Digital Brain and Prospecta MDO platforms, integrating both functional and technical perspectives to drive process optimization and data quality excellence. Certified in o9 SCM, o9 Technical Configuration, and Prospecta MDO (Explorer, Expert, Workflows, DAXE Rules, Specialist). Experienced in requirement gathering, workflow design, UI development, data validation, and UAT execution with a focus on business transformation and digital enablement. Recognized for mentoring new associates, leading KT sessions, and collaborating with cross-functional teams to deliver scalable and efficient enterprise solutions. Passionate about advancing in SCM consulting and contributing to large-scale transformation programs leveraging o9 and MDO platforms.
