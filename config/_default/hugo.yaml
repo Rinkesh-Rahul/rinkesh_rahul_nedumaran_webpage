@@ -34,6 +34,11 @@ outputs:
   home: [HTML, RSS, headers, redirects]
   section: [HTML, RSS]
 timeout: 600000
+imaging:
+  resampleFilter: lanczos
+  quality: 90
+  anchor: smart
+  hint: picture
 taxonomies:
   author: authors
 markup:
