@@ -175,6 +175,30 @@ awards:
     url: https://prospecta-academy.thinkific.com/certificates/kncw5ig0dr
     date: '2023-01-21'
     awarder: Prospecta Software
+  - title: BY_8651 Introduction to Cognitive Integrated Business Planning certificate
+    url: https://drive.google.com/file/d/16JVafFae099OECnUH7tGv8iArKOWvwZV/view?usp=drive_link
+    date: '2024-10-28'
+    awarder: Blue Yonder
+  - title: BY_8651 Introduction to the Process Orchestration Service v2024.1 certificate
+    url: https://drive.google.com/file/d/1FOd0_lq1HwfUWEzk-BzysqFsSzQH5mRb/view?usp=drive_link
+    date: '2024-10-28'
+    awarder: Blue Yonder
+  - title: BY_8659 Cognitive Planning_Exploring the Architecture v2024.1 certificate
+    url: https://drive.google.com/file/d/1Jke1PmBnQbaJq7ZItWlt4xIO9Lyzi9dl/view?usp=drive_link
+    date: '2024-10-28'
+    awarder: Blue Yonder
+  - title: BY_8659 Cognitive Planning_Exploring the Key Technology Drivers v2024.1 certificate
+    url: https://drive.google.com/file/d/1sSdqAc4Yz0ev6N3zojTm76DV1aY_70p1/view?usp=drive_link
+    date: '2024-10-28'
+    awarder: Blue Yonder
+  - title: BY_8659 Introduction to Cognitive Demand Planning certificate
+    url: https://drive.google.com/file/d/1axlN-CjpEvXCyt1Eu9Uu1QccMJOBBuR-/view?usp=drive_link
+    date: '2024-10-28'
+    awarder: Blue Yonder
+  - title: BY_8663 Introduction to Cognitive Merchandise Financial Planning certificate	
+    url: https://drive.google.com/file/d/1goCXoYDV-mRabi4cnpfJUgoWe-ropyyf/view?usp=drive_link
+    date: '2024-10-28'
+    awarder: Blue Yonder	
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
