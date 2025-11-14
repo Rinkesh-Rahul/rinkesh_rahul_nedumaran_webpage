@@ -150,11 +150,11 @@ languages:
   - name: Kannada
     percent: 20
 
-# Certifications.
-#   Add/remove as many certifications below as you like.
+# Awards.
+#   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-certifications:
+awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
